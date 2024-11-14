@@ -4,13 +4,24 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hi everyone !
+# Whoami ?
 
-My name is Loan or Loanito or Laykon4 or Mabohavista, i’m a 20 year old student and i'm in internship in the south of France. 
-I’m excited to be gaining real-world experience alongside my studies and am always looking to learn more and grow in my field. I'm only at the beginning and the road is still long so don't hesitate to DM me
+## A little animal interlude before introducing myself :
+Outside of school and work, I am a huge fan of red pandas, adorable little animals that are unfortunately endangered. I invite you to visit the [CPPR](https://cppr-pandaroux.org/) website to learn more about these creatures and support their conservation!
 
-Outside of studies and work i absolutely love red pandas they're my favorite animals !
-So if you want to protect them [Come support !](https://cppr-pandaroux.org/)
+**Thanks ❤️**
+
+![ImagePandaRoux](/assets/img/about/redpanda.jpg)
+
 <br>
 
-![Red Panda](/assets/img/about/redpanda.jpg)
+## 👤Profile
+### About me :
+A second-year student in the south of France, I am passionate about new technologies and innovative projects. Currently in a work-study program, I have the opportunity to combine academics with hands-on experience, which allows me to quickly develop practical skills. I'm gradually starting to get into the world of ethical hacking and cybersecurity. I'm only at the beginning of the journey, and there’s a long road ahead. I also love red pandas **([CPPR](https://cppr-pandaroux.org/))**!
+
+<br>
+
+## ✉️Contact
+- [Twitter](https://x.com/loanito2)
+- [Discord](https://discordapp.com/users/315152854946021377)
+- [Linkedin](https://www.linkedin.com/in/loan-roulph)
