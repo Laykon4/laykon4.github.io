@@ -1,6 +1,6 @@
 ---
 title: Active Directory Reinforcement
-date: 2024-11-12 00:12:00 +/-0100
+date: 2024-12-11 00:12:00 +/-0100
 categories: [Windows, Active Directory]
 tags: [Active Directory]    
 author: <author_id>
