@@ -21,7 +21,6 @@ A second-year student in the south of France, I am passionate about new technolo
 
 <br>
 
-
 ## ✉️Contact
 - [Twitter](https://x.com/loanito2)
 - [Discord](https://discordapp.com/users/315152854946021377)
