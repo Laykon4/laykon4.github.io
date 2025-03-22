@@ -14,12 +14,12 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Laykon4's Home # the main title
+title: Chez Laykon4 # the main title
 
-tagline: A blog and portfolio about me and what I do in my free time # it will display as the subtitle
+tagline: Un petit blog et portfolio de ce que je fais pendant mon temps libre # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A blog and portfolio about me and what I do in my free time.
+  Un petit blog et portfolio de ce que je fais pendant mon temps libre
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
