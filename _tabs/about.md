@@ -4,20 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Whoami ?
+## Qui suis-je ?
+Une petite parenthèse animalière avant de me présenter :
+En dehors des études et du travail, je suis un grand fan des pandas roux, ces adorables petits animaux malheureusement en danger d’extinction. Je vous invite à visiter le site du [CPPR](https://cppr-pandaroux.org/) pour en apprendre davantage sur ces créatures et soutenir leur conservation!
 
-## A little animal interlude before introducing myself :
-Outside of school and work, I am a huge fan of red pandas, adorable little animals that are unfortunately endangered. I invite you to visit the [CPPR](https://cppr-pandaroux.org/) website to learn more about these creatures and support their conservation!
-
-**Thanks ❤️**
+**Merci ❤️**
 
 ![ImagePandaRoux](/assets/img/about/redpanda.jpg)
 
 <br>
 
-## 👤Profile
-### About me :
-A second-year student in the south of France, I am passionate about new technologies and innovative projects. Currently in a work-study program, I have the opportunity to combine academics with hands-on experience, which allows me to quickly develop practical skills. I'm gradually starting to get into the world of ethical hacking and cybersecurity. I'm only at the beginning of the journey, and there’s a long road ahead. I also love red pandas **([CPPR](https://cppr-pandaroux.org/))**!
+## 👤 Profil
+### À propos de moi :
+Étudiant en deuxième année dans le sud de la France, je suis passionné par les nouvelles technologies et les projets innovants. Actuellement en alternance, j’ai la chance de pouvoir allier théorie et pratique, ce qui me permet de développer rapidement des compétences concrètes. Je commence petit à petit à m’intéresser au monde du hacking éthique et de la cybersécurité. Ce n’est que le début d’un long parcours ! J’aime aussi les pandas roux **([CPPR](https://cppr-pandaroux.org/))**!
 
 <br>
 
