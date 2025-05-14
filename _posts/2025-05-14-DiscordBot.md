@@ -23,4 +23,4 @@ La première étape est de créer son bot via le site [discord developper](https
 Celle-ci est très importante, car tous les paramètres du bot, l'invitation et aussi le token du bot se trouve ici.
 
 ### Maintenant, invitons notre bot discord sur notre serveur !
-Avant de pouvoir l'inviter il faut que tu possede au moins 1 serveur ou tu est administrateur ou plus dessus
+Avant de pouvoir l'inviter, il faut que tu possèdes au moins 1 serveur ou tu es administrateur ou plus dessus. Si c'est bon, il faut que tu ailles dans ```OAuth2``` puis tu coches l'onglet ```bot```, une autre fenêtre devrait s'ouvrir avec les permissions que tu veux que le bot possède. Une fois ton choix fait descends encore un peu et copie ton lien généré.
