@@ -1,0 +1,21 @@
+---
+title: Création d;un bot pour discord
+date: 2025-05-14 23:00:00 +/-0100
+categories: [Projet Personnel, dev]
+tags: [Python]
+author: <author_id>
+description: Comment j'ai créer et mis en place un bot discord pour mon serveur
+comments: true
+---
+
+
+## Introduction
+
+Discord est aujourd’hui une des plateformes de les plus utilisées par les communautés de joueurs, développeurs, étudiants ou passionnés de tous horizons. Grâce à sa flexibilité, il est possible d’y ajouter des **bots personnalisés** capables de répondre à des messages, modérer des salons, animer des jeux ou automatiser des tâches.
+
+Mais alors… comment crée-t-on son propre bot Discord ?
+
+
+## Créer son bot discord :
+La première etape est de creer son bot via le site [discord developper](https://discord.com/developers/)
+![testimg](C:\Users\loanr\Pictures\TTC mugshot.jpg)
