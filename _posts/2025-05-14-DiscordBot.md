@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-## Introduction
+## Introduction :
 
 Discord est aujourd’hui une des plateformes de les plus utilisées par les communautés de joueurs, développeurs, étudiants ou passionnés de tous horizons. Grâce à sa flexibilité, il est possible d’y ajouter des **bots personnalisés** capables de répondre à des messages, modérer des salons, animer des jeux ou automatiser des tâches.
 
@@ -17,6 +17,10 @@ Mais alors… comment crée-t-on son propre bot Discord ?
 
 
 ## Créer son bot discord :
-La première étape est de créer son bot via le site [discord developper](https://discord.com/developers/) puis vous serait redirigé vers la page"application" qui doit ressembler a ceci :
-![testimg](C:\Users\loanr\Pictures\TTC mugshot.jpg)
+La première étape est de créer son bot via le site [discord developper](https://discord.com/developers/application), puis une fois que vous lui avez donné un nom, vous arriverez sur cette interface :
+![]("F:\imgBlog\application.png")
 
+Celle-ci est très importante, car tous les paramètres du bot, l'invitation et aussi le token du bot se trouve ici.
+
+### Maintenant, invitons notre bot discord sur notre serveur !
+Avant de pouvoir l'inviter il faut que tu possede au moins 1 serveur ou tu est administrateur ou plus dessus
