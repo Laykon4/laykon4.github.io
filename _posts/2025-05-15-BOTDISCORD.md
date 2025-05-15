@@ -6,6 +6,7 @@ tags: [Python]
 author: <author_id>
 description: Comment j'ai créer et mis en place un bot discord pour mon serveur
 comments: true
+media_subpath: F:\imgBlog
 ---
 
 
