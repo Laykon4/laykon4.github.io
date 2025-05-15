@@ -6,7 +6,7 @@ tags: [Python]
 author: <author_id>
 description: Comment j'ai créer et mis en place un bot discord pour mon serveur
 comments: true
-media_subpath: /workspaces/laykon4.github.io/assets/img/pictures
+media_subpath: laykon4.github.io/assets/imgBlog
 ---
 
 
@@ -19,7 +19,7 @@ Mais alors… comment crée-t-on son propre bot Discord ?
 
 ## Créer son bot discord :
 La première étape est de créer son bot via le site [discord developper](https://discord.com/developers/application), puis une fois que vous lui avez donné un nom, vous arriverez sur cette interface :
-![TestImage](/workspaces/laykon4.github.io/assets/img/pictures.png)
+![TestImage](laykon4.github.io/assets/imgBlog/pictures.png)
 
 Celle-ci est très importante, car tous les paramètres du bot, l'invitation et aussi le token du bot se trouve ici.
 
