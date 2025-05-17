@@ -52,6 +52,18 @@ bot.run("TON_TOKEN")
 ```
 
 On exécute ce fichier et notre bot est connecté.
+Maintenant, voyons comment ca marche : <br><br>
+```import discord``` : Importe la bibliothèque Discord<br><br>
+```from discord.ext import commands``` : Importe le module commands<br><br>
+```bot = commands.Bot(command_prefix=".")``` : Créer un objet ```bot``` en définissant le préfixe des commandes sur "." 
+<br>
+```python 
+    @bot.event
+    async def on_ready():
+        print(f"Connecté en tant que {bot.user}")
+```
+Ici, ```@bot.event``` indique que tu gères un événement et ```on_ready``` se déclenche automatiquement au démarrage.
 
+Et pour finir ```bot.run("TON_TOKEN")``` lance ton bot avec le token qu'on récupère plus tôt
 
 ## La suite arrive patience...
