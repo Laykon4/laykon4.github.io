@@ -16,10 +16,10 @@ timezone: Europe/Paris
 
 title: Chez Laykon4 # the main title
 
-tagline: Un petit blog et portfolio de ce que je fais pendant mon temps libre # it will display as the subtitle
+tagline: Un petit blog de ce que je fais pendant mon temps libre # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Un petit blog et portfolio de ce que je fais pendant mon temps libre
+  Un petit blog de ce que je fais pendant mon temps libre
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,7 +42,7 @@ social:
     - https://github.com/laykon4 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/loan-roulph
+    # - https://www.linkedin.com/in/loan-roulph
 
 # Site Verification Settings
 webmaster_verifications:

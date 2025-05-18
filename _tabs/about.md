@@ -23,4 +23,3 @@ En dehors des études et du travail, je suis un grand fan des pandas roux, ces a
 ## ✉️Contact
 - [Twitter](https://x.com/loanito2)
 - [Discord](https://discordapp.com/users/315152854946021377)
-- [Linkedin](https://www.linkedin.com/in/loan-roulph-bb1112301/)
