@@ -18,25 +18,25 @@ Mais alors… comment crée-t-on son propre bot Discord ?
 
 
 ## Créer son bot discord :
-Pour commencer j'ai créer mon bot via le site [discord developper](https://discord.com/developers/application), puis une fois que je lui ai donné un nom, j'arrive sur cette interface :
+Pour commencer on créer mon bot via le site [discord developper](https://discord.com/developers/application), puis une fois qu'on lui a donné un nom, j'arrive sur cette interface :
 ![TestImage](imgBlog/application.png)
 
 Celle-ci est très importante, car tous les paramètres du bot, l'invitation et aussi le token du bot se trouve ici.
 
 ### Maintenant, invitons notre bot discord sur notre serveur !
-Avant de pouvoir l'inviter, il faut posséder au moins 1 serveur où tu es administrateur ou plus dessus. Ensuite pour l'inviter, je suis allé dans ```OAuth2``` et j'ai coché l'onglet ```bot```, puis j'ai choisi de lui donner les perms admin. Tout en bas de la page, on retrouve le lien à coller pour faire venir le bot sur notre serveur.
+Avant de pouvoir l'inviter, il faut posséder au moins 1 serveur où l'on est administrateur ou plus. Ensuite pour l'inviter, on va dans ```OAuth2``` et on coche l'onglet ```bot```, puis on choisit de lui donner les perms admin. Tout en bas de la page, on retrouve le lien à coller pour faire venir le bot sur notre serveur.
 
 ![TestImage](imgBlog/application.png)
 
 Le bot est bel est bien sur notre serveur, mais pas connecté, pour ça, il va falloir un peu de code !
 
-Avant de passer au code, il faut récupérer notre token dans l'onglet ```bot```
+Avant de passer au code, il faut récupérer le token dans l'onglet ```bot```
 ![token](imgBlog/token.png)
 
-> Ne jamais partager son token
+> Ne jamais partager son token !
 {: .prompt-warning }
 
-Une fois votre token récupéré, on va créer nos premières lignes de code pour mettre en ligne notre bot
+Une fois le token récupéré, on va créer nos premières lignes de code pour mettre en ligne le bot
 
 ```python
 import discord
@@ -64,6 +64,6 @@ Maintenant, voyons comment ca marche : <br><br>
 ```
 Ici, ```@bot.event``` indique que tu gères un événement et ```on_ready``` se déclenche automatiquement au démarrage.
 
-Et pour finir ```bot.run("TON_TOKEN")``` lance ton bot avec le token qu'on récupère plus tôt
+Et pour finir ```bot.run("TON_TOKEN")``` lance le bot avec le token qu'on récupère plus tôt
 
 ## La suite arrive patience...
